@@ -1,0 +1,13 @@
+.color-button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    transition: transform 0.2s;
+  }
+  
+  .color-button:hover {
+    transform: scale(1.1);
+  }
+  
